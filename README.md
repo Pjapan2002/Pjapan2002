@@ -1,5 +1,5 @@
-## Hi there 👋
-<h1 align="left">Hey 👋 What's up?</h1>
+<!-- ## Hi there 👋 -->
+<h1 align="left">Hi there! 👋</h1>
 
 ###
 
