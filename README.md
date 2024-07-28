@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Full Stack Development.<br>🎯 Goals: To become a Software Developer.<br>📫 How to reach me pateljapan509@gmail.com</p>
+<p align="left">📚 I'm currently learning Full Stack Development.<br>🎯 Goals: To become a Software Developer.<br>📫 How to reach me <a href="mailto:pateljapan509@gmail.com">pateljapan509@gmail.com</p>
 
 ###
 
